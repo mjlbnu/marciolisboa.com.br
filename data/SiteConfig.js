@@ -9,10 +9,10 @@ const config = {
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
-    'Marcio José Lisboa é um analista de sistemas apaixonado por novas tecnologias.',
+    'Site pessoal e blog de Marcio José Lisboa, analista de sistemas apaixonado por novas tecnologias.',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-154535775-1',
-  postDefaultCategoryID: 'Tech',
+  postDefaultCategoryID: 'Tecnologia',
   newsletter: '',
   newsletterEmbed: '',
   userName: 'Marcio',

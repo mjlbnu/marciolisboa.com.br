@@ -6,7 +6,7 @@ template: page
 
 Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualmente trabalho como analista de sistemas em uma empresa do segmento de vendas, desenvolvendo e mantendo sistemas para a área financeira.
 
-![Eu](../images/imagem.jpg)
+![Eu](https://avatars0.githubusercontent.com/u/46792997?v=4)
 
 ## Experiência
 
@@ -31,11 +31,10 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 - **Ferramentas/Ambiente** - Node.js, Git, Webpack, Chrome DevTools, CLI, Ubuntu
 - **Frameworks/Libs** - React, Gatsby
 - **Dados** - SQL (MySQL, PostgreSQL, Oracle) GraphQL, JSON, MongoDB
-- **Testes** - Funcional, unitário, performance, integração
 
 ## Links
 
-- [Marcio Lisboa](https://www.google.com.br) – a brilliant programmer ;-)
+- [Marcio José Lisboa](https://www.programadorbr.com.br) – um programador brilhante ;-)
 
 ## Projetos Open Source
 

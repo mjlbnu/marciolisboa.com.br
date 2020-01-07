@@ -10,7 +10,7 @@ export default class UserInfo extends Component {
         <div className="container note-container">
           <div className="flex-author">
             <div className="flex-avatar">
-              <img className="avatar" src={imagem} alt="Marcio" />
+              <img className="avatar" src="https://avatars0.githubusercontent.com/u/46792997?v=4" alt="Marcio" />
             </div>
             <div>
               <p>
