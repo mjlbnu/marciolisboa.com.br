@@ -7,7 +7,7 @@ const config = {
   repo: 'https://github.com/mjlbnu',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
-  dateFormat: 'MMMM Do, YYYY',
+  dateFormat: 'LL',
   siteDescription:
     'Site pessoal e blog de Marcio José Lisboa, analista de sistemas apaixonado por novas tecnologias.',
   siteRss: '/rss.xml',
