@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: 'Marcio José Lisboa',
   siteTitleAlt: 'Marcio José Lisboa',
   siteLogo: '/logos/logo-1024.png',
-  siteUrl: 'https://www.marciolisboa.com.br',
+  siteUrl: 'https://www.programadorbr.com.br',
   repo: 'https://github.com/mjlbnu',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
