@@ -3,6 +3,8 @@ import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 import moment from 'moment';
 import { formatDate } from '../utils/global';
+import { format } from 'date-fns';
+import pt from 'date-fns/locale/pt-BR';
 
 export default class PostListing extends Component {
   getPostList() {
@@ -35,7 +37,8 @@ export default class PostListing extends Component {
           }
 
           const popular = post.categories.includes('Popular');
-          const date = formatDate(post.date);
+          //const date = formatDate(post.date);
+          const date = format(new Date(post.date), "dd 'de' MMMM' de ' yyyy'", { locale: pt });
           const newest = moment(post.date) > moment().subtract(1, 'months');
 
           return (

@@ -4,4 +4,4 @@ slug: cursos
 template: page
 ---
 
-#### Em breve uma lista de cursos recomendados!
+#### Estou preparando uma lista de cursos bem interessantes!

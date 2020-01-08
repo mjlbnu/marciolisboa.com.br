@@ -7,7 +7,8 @@ import UserInfo from '../components/UserInfo';
 import PostTags from '../components/PostTags';
 import SEO from '../components/SEO';
 import config from '../../data/SiteConfig';
-import { formatDate, editOnGithub } from '../utils/global';
+import { format } from 'date-fns';
+import pt from 'date-fns/locale/pt-BR';
 
 export default class PostTemplate extends Component {
   constructor(props) {
@@ -36,8 +37,8 @@ export default class PostTemplate extends Component {
       thumbnail = post.thumbnail.childImageSharp.fixed;
     }
 
-    const date = formatDate(post.date);
-    const githubLink = editOnGithub(post);
+    //const date = formatDate(post.date);
+    const date = format(new Date(post.date), "dd 'de' MMMM' de ' yyyy'", { locale: pt });
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(
       post.title
     )}&url=${config.siteUrl}/${post.slug}/&via=mjlbnu`;
@@ -65,15 +66,6 @@ export default class PostTemplate extends Component {
                 >
                   Compartilhe
                 </a>
-                /
-                <a
-                  className="github-link"
-                  href={githubLink}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Editar ✏️
-                </a>
               </div>
               <PostTags tags={post.tags} />
             </div>
@@ -87,17 +79,8 @@ export default class PostTemplate extends Component {
         <div className="container no-comments">
           <h3>Sem comentários?</h3>
           <p>
-            A inexistência de um sistema de comentários é intencional. Se você
-            encontrou algum erro neste artigo, sinta-se à vontade para{' '}
-            <a
-              className="github-link"
-              href={githubLink}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              editar no GitHub
-            </a>
-            .
+            A inexistência de comentários é intencional. Se você
+            encontrou algum erro neste artigo, sinta-se à vontade para me enviar um e-mail.
           </p>
         </div>
         <div className="container">
@@ -107,7 +90,7 @@ export default class PostTemplate extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Inscreva-se para receber novidades
+            Em breve você poderá se inscrever para receber novidades
           </a>
         </div>
         <UserInfo config={config} />

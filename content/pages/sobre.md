@@ -24,17 +24,17 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 - **GitHub**: [mjlbnu](https://github.com/mjlbnu)
 - **Linkedin**: [mjlbnu](https://www.linkedin.com/in/mjlbnu)
 
-## Habilidades técnicas em desenvolvimento
+## Habilidades em desenvolvimento
 
-- **Linguagens** - JavaScript (ES6+), HTML5, CSS3, Bash
+- **Linguagens** - JavaScript (ES6+), HTML5, CSS3
 - **Conceitos** - RESTful API Design/Integração, Arquitetura MVC, CI/CD, Metodologias Ágeis
-- **Ferramentas/Ambiente** - Node.js, Git, Webpack, Chrome DevTools, CLI, Ubuntu
-- **Frameworks/Libs** - React, Gatsby
-- **Dados** - SQL (MySQL, PostgreSQL, Oracle) GraphQL, JSON, MongoDB
+- **Ferramentas/Ambiente** - Node.js, Git, Webpack, Chrome DevTools, CLI, Ubuntu, VSCode
+- **Frameworks/Libs** - React, React Native, Gatsby
+- **Dados** - PostgreSQL, GraphQL, JSON, MongoDB
 
 ## Links
 
-- [Marcio José Lisboa](https://www.programadorbr.com.br) – um programador brilhante ;-)
+- Em breve uma lista 
 
 ## Projetos Open Source
 
@@ -46,4 +46,4 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 
 ## Portfolio
 
-- [Site pessoal e blog](https://www.marciolisboa.com.br/) - 2020
+- [Site pessoal e blog](https://www.programadorbr.com.br/) - 2020
