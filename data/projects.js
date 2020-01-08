@@ -4,6 +4,6 @@ export default [
     title: 'Spots',
     path: 'https://github.com/mjlbnu/spots',
     source: 'https://github.com/mjlbnu/spots',
-    description: 'A web-based Node.js, React, MongoDB.',
+    description: 'Projeto produzido durante a semana Omnistack 9.0, com algumas features adicionais.',
   },
 ];
