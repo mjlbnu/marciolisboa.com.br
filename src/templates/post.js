@@ -82,6 +82,7 @@ export default class PostTemplate extends Component {
             Os comentários publicados aqui entrarão em uma fila de moderação, ficarão visíveis somente após a aprovação.
           </p>
           <form name="contato" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contato" />
             <p>
               <label>Seu nome: <input type="text" name="name" /></label>   
             </p>
@@ -94,7 +95,6 @@ export default class PostTemplate extends Component {
             <p>
               <button type="submit">Enviar</button>
             </p>
-            <input type="hidden" name="contato" value="contato" />
           </form>
         </div>
         <div className="container">
