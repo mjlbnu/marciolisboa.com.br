@@ -77,11 +77,23 @@ export default class PostTemplate extends Component {
           />
         </article>
         <div className="container no-comments">
+        
+        <h3>Inscreva-se para receber novidades</h3>
+        <form name="newsletter" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="newsletter" />
+          <p>
+            <label>Seu Email: <input type="email" name="email" /></label>
+          </p>
+          <p>
+            <button type="submit">Quero receber novidades</button>
+          </p>
+        </form>
+
           <h3>Deixe um comentário</h3>
           <p>
             Os comentários publicados aqui entrarão em uma fila de moderação, ficarão visíveis somente após a aprovação.
           </p>
-          <form name="contato" method="POST" data-netlify="true">
+          <form name="contato" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
             <input type="hidden" name="form-name" value="contato" />
             <p>
               <label>Seu nome: <input type="text" name="name" /></label>   
@@ -96,16 +108,6 @@ export default class PostTemplate extends Component {
               <button type="submit">Enviar</button>
             </p>
           </form>
-        </div>
-        <div className="container">
-          <a
-            className="button"
-            href="#"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Em breve você poderá se inscrever para receber novidades
-          </a>
         </div>
         <UserInfo config={config} />
       </Layout>

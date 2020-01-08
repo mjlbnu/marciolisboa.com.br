@@ -5,8 +5,9 @@ export default [
             obviamente não há falhas. A outra é fazê-lo tão complicado que não existem falhas obvias.`,
   },
   {
-    name: 'Vidiu Platon',
-    quote: `Não me interessa se roda na sua máquina! Nós não estamos entregando a sua máquina.`,
+    name: 'Michael Feathers',
+    quote: `Eu poderia listar todas as qualidades que vejo em um código limpo, mas há uma predominante que leva a todas as outras.
+            Um código limpo sempre parece que foi escrito por alguém que se importa.`,
   },
   {
     name: 'Martin Fowler',

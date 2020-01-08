@@ -27,10 +27,6 @@ const config = {
       name: 'Artigos',
       link: '/blog/',
     },
-    {
-      name: 'Cursos Online',
-      link: '/cursos/',
-    },
   ],
   themeColor: '#3F80FF', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff',
