@@ -77,11 +77,25 @@ export default class PostTemplate extends Component {
           />
         </article>
         <div className="container no-comments">
-          <h3>Sem comentários?</h3>
+          <h3>Deixe um comentário</h3>
           <p>
-            A inexistência de comentários é intencional. Se você
-            encontrou algum erro neste artigo, sinta-se à vontade para me enviar um e-mail.
+            Os comentários publicados aqui entrarão em uma fila de moderação, ficarão visíveis somente após a aprovação.
           </p>
+          <form name="contato" method="POST" data-netlify="true">
+            <p>
+              <label>Seu nome: <input type="text" name="name" /></label>   
+            </p>
+            <p>
+              <label>Seu Email: <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Mensagem: <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Enviar</button>
+            </p>
+            <input type="hidden" name="contato" value="contato" />
+          </form>
         </div>
         <div className="container">
           <a
