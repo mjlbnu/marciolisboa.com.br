@@ -28,4 +28,4 @@ Como falei anteriormente, estava planejando há algum tempo a criação do blog.
 
 > “Ensinar é aprender duas vezes” – Joseph Joubert
 
-Dessa forma o blog possui como principais propósitos o registro da minha jornada de aprendizado e o compartilhamento de conhecimento com outras pessoas.
+Dessa forma o blog possui como principais propósitos o registro da minha jornada de aprendizado e o compartilhamento de conhecimento com outras pessoas. Periodicamente serão postados Artigos relacionados à desenvolvimento web, novas tecnologias, metodologias ágeis e carreira.
