@@ -21,8 +21,8 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 ### Contato
 
 - **Email**: [mjlbnu@gmail.com](mailto:mjlbnu[AT]gmail[DOT]com)
-- **GitHub**: [mjlbnu](https://github.com/mjlbnu)
-- **Linkedin**: [mjlbnu](https://www.linkedin.com/in/mjlbnu)
+- **GitHub**: <a href="https://github.com/mjlbnu/" target="_blank">mjlbnu</a>
+- **Linkedin**: <a href="https://www.linkedin.com/in/mjlbnu/" target="_blank">mjlbnu</a>
 
 ## Habilidades em desenvolvimento
 
@@ -32,18 +32,16 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 - **Frameworks/Libs** - React, React Native, Gatsby
 - **Dados** - PostgreSQL, GraphQL, JSON, MongoDB
 
-## Links
-
-- Em breve uma lista 
+## Links 
 
 ## Projetos Open Source
 
-- [Spots](https://github.com/mjlbnu/spots) - Node.js, React, MongoDB
+- <a href="https://github.com/mjlbnu/spots/" target="_blank">Spots</a> - Node.js, React, MongoDB
 
 ## Publicações
 
-- [A importância do gerenciamento de processos de negócios (BPM) na otimização e melhoria contínua de processos de TI](https://www.riuni.unisul.br/handle/12345/5726) - 2018
+- <a href="https://www.riuni.unisul.br/handle/12345/5726/" target="_blank">A importância do gerenciamento de processos de negócios (BPM) na otimização e melhoria contínua de processos de TI</a> - 2018
 
 ## Portfolio
 
-- [Site pessoal e blog](https://www.programadorbr.com.br/) - 2020
+- <a href="https://www.programadorbr.com.br/" target="_blank">Site pessoal e blog</a> - 2020

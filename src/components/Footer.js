@@ -9,28 +9,17 @@ export default class Footer extends Component {
       <footer className="footer container">
         <div />
         <div>
-          <a href="https://github.com/mjlbnu" title="Open-source no GitHub">
-            <img
-              src={github}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-img"
-              alt="GitHub"
-            />
-          </a>
-          <a href="https://www.netlify.com/" title="Hospedado pela Netlify">
+          <a href="https://www.netlify.com/" title="Hospedado pela Netlify" target="_blank">
             <img
               src={netlify}
-              target="_blank"
               rel="noopener noreferrer"
               className="footer-img"
               alt="GitHub"
             />
           </a>
-          <a href="https://www.gatsbyjs.org/" title="Construído com Gatsby">
+          <a href="https://www.gatsbyjs.org/" title="Construído com Gatsby" target="_blank">
             <img
               src={gatsby}
-              target="_blank"
               rel="noopener noreferrer"
               className="footer-img"
               alt="GitHub"
