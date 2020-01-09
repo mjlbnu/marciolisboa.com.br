@@ -18,9 +18,9 @@ Este é um dia muito especial, finalmente consegui lançar o meu blog. Estive pl
 #### Senta que lá vem a história
 
 Reiniciei meus estudos em desenvolvimento web em meados de Abril/2019 e tem sido uma jornada fantástica. O
-ponto de partida foi um curso online oferecido pela <a href="https://www.codenation.dev/" target="_blank">codenation</a> desde então tenho me dedicado ao estudo de Javascript moderno, suas bibliotecas e frameworks.
+ponto de partida foi um curso online oferecido pela <a href="https://www.codenation.dev/" target="_blank">codenation</a> e desde então tenho me dedicado ao estudo de Javascript moderno, suas bibliotecas e frameworks.
 
-Para ser honesto, sempre fui fascinado por web e pelo design dos sites. Essa fascinação é antiga, datada na época em que o flash da Adobe estava em alta. Nessa época passava muito tempo tentando descobrir como os sites eram construídos e o conhecimento adquirido me possibilitou criar alguns trabalhos e conseguir alguns freelas na época.
+Para ser honesto, sempre fui fascinado por web e pelo design dos sites. Essa fascinação é antiga, datada na época em que o flash da Adobe estava em alta. Nessa época passava muito tempo tentando descobrir como os sites eram construídos e o conhecimento adquirido me possibilitou desenvolver alguns projetos e trabalhos freelancer na época.
 
 #### O propósito do blog
 
