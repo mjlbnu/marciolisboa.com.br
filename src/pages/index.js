@@ -61,7 +61,7 @@ export default class Index extends Component {
           <section className="section">
             <h2>
               Últimos Artigos
-              <Link to="/blog" className="view-all">
+              <Link to="/blog/" className="view-all">
                 Ver todos
               </Link>
             </h2>
