@@ -78,7 +78,7 @@ export default class PostTemplate extends Component {
         </article>
         <div className="container no-comments">
         
-        <h3>Inscreva-se para receber novidades</h3>
+        <h3>Gostou? Inscreva-se para receber novidades</h3>
         <form name="newsletter" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="newsletter" />
           <p>
