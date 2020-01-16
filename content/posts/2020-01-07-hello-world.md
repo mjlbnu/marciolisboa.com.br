@@ -1,6 +1,6 @@
 ---
 date: 2020-01-07
-title: 'Hello World'
+title: 'Hello World!'
 template: post
 thumbnail: '../thumbnails/globe.png'
 slug: hello-world
@@ -10,8 +10,6 @@ tags:
   - vida
   - conhecimento
 ---
-
-#### Hello World
 
 Este é um dia muito especial, finalmente consegui lançar o meu blog. Estive planejando isso durante o final do ano passado e o momento finalmente chegou. O site roda em <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> um framework de código aberto baseado em React que permite a integração das mais recentes tecnologias da Web - React.js, Webpack, Javascript moderno, CSS e muito mais.
 
