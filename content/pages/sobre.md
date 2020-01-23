@@ -4,7 +4,7 @@ slug: sobre
 template: page
 ---
 
-Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualmente trabalho como analista de sistemas em uma empresa do segmento de vendas, desenvolvendo e mantendo sistemas para a área financeira.
+Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualmente trabalho como analista de sistemas em uma empresa do segmento de vendas, desenvolvendo e mantendo sistemas para a área financeira em Delphi.
 
 ![Eu](https://avatars0.githubusercontent.com/u/46792997?v=4)
 
