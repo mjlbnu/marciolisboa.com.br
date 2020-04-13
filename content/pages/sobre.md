@@ -4,7 +4,7 @@ slug: sobre
 template: page
 ---
 
-Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualmente trabalho como analista de sistemas em uma empresa do segmento de vendas, desenvolvendo e mantendo sistemas para a área financeira em Delphi.
+Eu sou [Marcio José Lisboa](/sobre), analista desenvolvedor Delphi e entusiasta em desenvolvimento web.
 
 ![Eu](https://avatars0.githubusercontent.com/u/46792997?v=4)
 
@@ -12,7 +12,7 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 
 #### Analista de Sistemas
 
-**Loghaus Ltda** - _2013 - Atualmente | Blumenau - SC_
+**Loghaus Ltda** - _2013 - 2020 | Blumenau - SC_
 
 #### Programador
 
@@ -32,7 +32,7 @@ Eu sou [Marcio José Lisboa](/sobre), entusiasta em desenvolvimento web, atualme
 - **Frameworks/Libs** - React, React Native, Gatsby
 - **Dados** - PostgreSQL, GraphQL, JSON, MongoDB
 
-## Links 
+## Links
 
 ## Projetos Open Source
 
