@@ -10,6 +10,7 @@ import projects from '../../data/projects';
 import quotes from '../../data/quotes';
 import linkedin from '../../content/thumbnails/linkedin.svg';
 import github from '../../content/thumbnails/github.png';
+import marcio from '../../content/images/marcio.jpg';
 
 export default class Index extends Component {
   render() {
@@ -23,11 +24,7 @@ export default class Index extends Component {
         <div className="container">
           <div className="lead">
             <div className="mee">
-              <img
-                className="me"
-                src="https://avatars0.githubusercontent.com/u/46792997?v=4"
-                alt="Marcio"
-              />
+              <img src={marcio} className="me" alt="Marcio" />
             </div>
             <div className="elevator">
               <p>
@@ -70,6 +67,23 @@ export default class Index extends Component {
 
           <section className="section">
             <h2>Projetos Open Source</h2>
+            <p>
+              Os aplicativos abaixo listados estão hospedados gratuitamente no
+              <a href="https://www.heroku.com/" target="_blank">
+                {' '}
+                heroku
+              </a>
+              , é{' '}
+              <a
+                href="https://devcenter.heroku.com/articles/dynos#dyno-sleeping"
+                target="_blank"
+              >
+                política da plataforma{' '}
+              </a>{' '}
+              mantê-los em estado de "dormência" após uma hora de inatividade.
+              Isso causa um pequeno atraso na primeira solicitação, mas as
+              solicitações subsequentes serão executadas normalmente.
+            </p>
             <ProjectListing projects={projects} />
           </section>
 

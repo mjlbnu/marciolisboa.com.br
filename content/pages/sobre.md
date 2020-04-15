@@ -4,15 +4,13 @@ slug: sobre
 template: page
 ---
 
-Eu sou [Marcio José Lisboa](/sobre), possuo formação em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e pós-graduação em Governança de TI pela Univali (Universidade do Vale do Itajaí).
+Eu sou [Marcio José Lisboa](/sobre), minha formação é em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e pós-graduação em Governança de TI pela Univali (Universidade do Vale do Itajaí).
 
-Minha principal experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de comércio varejista. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções utilizando Delphi e Oracle.
+Minha principal experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções utilizando Delphi e Oracle.
 
-Na minha opinião um bom profissional de TI precisa se adaptar, estar sempre em constante evolução, sendo assim, estou sempre buscando aperfeiçoamento e aprendendo novas linguagens.
+Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Estou sempre buscando aperfeiçoamento e aprendendo novas linguagens.
 
-Como meu perfil é hands-on, atualmente estou estudando Node.js e React.js, minha estratégia tem sido a de desenvolver pequenas aplicações totalmente funcionais e open-source, objetivando aprimorar meus conhecimentos nas linguagens.
-
-![Eu](https://avatars0.githubusercontent.com/u/46792997?v=4)
+Com perfil hands-on atualmente estou estudando Node e React, minha estratégia tem sido a de desenvolver pequenas aplicações totalmente funcionais e open-source, objetivando aprimorar cada vez mais meus conhecimentos.
 
 ## Experiência
 
