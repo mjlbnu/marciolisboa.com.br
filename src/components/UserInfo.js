@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import imagem from '../../content/images/pc.jpg';
 import linkedin from '../../content/thumbnails/linkedin.svg';
 import github from '../../content/thumbnails/github.png';
+import marcio from '../../content/images/marcio.png';
 
 export default class UserInfo extends Component {
   render() {
@@ -10,7 +10,12 @@ export default class UserInfo extends Component {
         <div className="container note-container">
           <div className="flex-author">
             <div className="flex-avatar">
-              <img className="avatar" src="https://avatars0.githubusercontent.com/u/46792997?v=4" alt="Marcio" />
+              <img
+                className="avatar"
+                /* src="https://avatars0.githubusercontent.com/u/46792997?v=4" */
+                src={marcio}
+                alt="Marcio"
+              />
             </div>
             <div>
               <p>

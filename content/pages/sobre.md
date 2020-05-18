@@ -10,7 +10,7 @@ Minha principal experiência em TI foi durante o período de junho de 2010 a abr
 
 Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Estou sempre buscando aperfeiçoamento e aprendendo novas linguagens.
 
-Com perfil hands-on atualmente estou estudando Node e React, minha estratégia tem sido a de desenvolver pequenas aplicações totalmente funcionais e open-source, objetivando aprimorar cada vez mais meus conhecimentos.
+Com perfil hands-on atualmente estou estudando ~~Node e React~~ Java e o ecossistema Spring.
 
 ## Experiência
 
@@ -30,11 +30,12 @@ Com perfil hands-on atualmente estou estudando Node e React, minha estratégia t
 
 ## Habilidades em desenvolvimento
 
-- **Linguagens** - JavaScript (ES6+), HTML5, CSS3
+- **Linguagens** - JavaScript (ES6+), HTML5, CSS3, Java
 - **Conceitos** - RESTful API Design/Integração, Arquitetura MVC, CI/CD, Metodologias Ágeis
-- **Ferramentas/Ambiente** - Node.js, Git, Webpack, Chrome DevTools, CLI, Ubuntu, VSCode
-- **Frameworks/Libs** - React, React Native, Gatsby
-- **Dados** - PostgreSQL, GraphQL, JSON, MongoDB
+- **Ferramentas/Ambiente** - Node.js, Git, Webpack, Chrome DevTools, CLI, Ubuntu,
+  VSCode, SpringTools, IntelliJ IDEA
+- **Frameworks/Libs** - React, React Native, Gatsby, Spring Boot, Hibernate
+- **Dados** - PostgreSQL, GraphQL, JSON, MongoDB, MySQL
 
 ## Links
 
@@ -49,4 +50,4 @@ Com perfil hands-on atualmente estou estudando Node e React, minha estratégia t
 
 ## Portfolio
 
-- <a href="https://www.programadorbr.com.br/" target="_blank">Site pessoal e blog</a> - 2020
+- <a href="https://www.programadorbr.com.br/" target="_blank">Site pessoal</a> - 2020

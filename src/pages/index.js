@@ -10,7 +10,7 @@ import projects from '../../data/projects';
 import quotes from '../../data/quotes';
 import linkedin from '../../content/thumbnails/linkedin.svg';
 import github from '../../content/thumbnails/github.png';
-import marcio from '../../content/images/marcio.jpg';
+import marcio from '../../content/images/marcio.png';
 
 export default class Index extends Component {
   render() {
@@ -28,9 +28,9 @@ export default class Index extends Component {
             </div>
             <div className="elevator">
               <p>
-                Um Analista de Sistemas caminhando entre sistemas legados e
-                tecnologias modernas. Atualmente estudando JavaScript, Node.js,
-                React, design e desenvolvimento web.
+                Um Analista de Sistemas que trilhou um longo caminho entre
+                sistemas legados. Atualmente estudando{' '}
+                <strike>Node.js, React</strike> Java e o ecossistema Spring.
               </p>
               <div className="social-buttons">
                 <a
