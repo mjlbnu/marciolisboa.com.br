@@ -4,13 +4,17 @@ slug: sobre
 template: page
 ---
 
-Eu sou [Marcio José Lisboa](/sobre), apaixonado por tecnologia e sempre em busca de aperfeiçoamento e aprendizagem. Sou graduado em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e pós-graduado em Governança de TI pela Unisul (Universidade do Sul de Santa Catarina).
+👋 Eu sou [Marcio José Lisboa](/sobre), apaixonado por tecnologia e sempre em busca de aperfeiçoamento e aprendizagem.
 
-Minha principal experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções utilizando Delphi e Oracle.
+🎓 Sou graduado em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e pós-graduado em Governança de TI pela Unisul (Universidade do Sul de Santa Catarina).
 
-Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Com perfil hands-on atualmente estou estudando ~~Node e React~~ Java e o ecossistema Spring.
+**💼 Meu objetivo profissional é trabalhar em uma empresa referência no mercado, que utiliza tecnologias atuais e emergentes ao lado de pessoas motivadas e cooperativas, desenvolvendo produtos e serviços que façam diferença no mercado e na vida das pessoas.**
 
-## Experiência
+Minha principal experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções utilizando Delphi.
+
+Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Com perfil hands-on atualmente estou estudando Java e o ecossistema Spring, React e React Native.
+
+## Experiência Profissional
 
 #### Análise de Sistemas / Desenvolvimento
 
@@ -18,9 +22,9 @@ Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em
 
 #### Desenvolvimento
 
-**Loghaus Ltda** - _2010 - 2013 | Blumenau - SC_
+**Marketing Actual S.A** - _2010 - 2013 | Blumenau - SC_
 
-### Contato
+## Contato
 
 - **Email**: [mjlbnu@gmail.com](mailto:mjlbnu[AT]gmail[DOT]com)
 - **GitHub**: <a href="https://github.com/mjlbnu/" target="_blank">mjlbnu</a>
@@ -28,8 +32,8 @@ Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em
 
 ## Open Source
 
-- <a href="https://github.com/mjlbnu/spring-blog/" target="_blank">Blog com Spring</a> - Spring Boot, Spring Security, H2, Flyway, Hibernate, JWT, Spring Fox, Swagger, Maven, Oauth2, Bootstrap
-- <a href="https://github.com/mjlbnu/centralErros-API/" target="_blank">API Central de Erros</a> - Spring Boot, Spring Security, Hibernate, H2, Thymeleaf, Maven
+- <a href="https://github.com/mjlbnu/spring-blog/" target="_blank">Blog com Spring</a> - Spring Boot, Spring Security, H2, Flyway, Hibernate, JWT, Spring Fox, Swagger, Maven, Oauth2, Thymeleaf, Bootstrap
+- <a href="https://github.com/mjlbnu/centralErros-API/" target="_blank">API Central de Erros</a> - Spring Boot, Spring Security, Hibernate, H2, Maven
 - <a href="https://github.com/mjlbnu/spots/" target="_blank">Spots para programadores</a> - Node.js, React, MongoDB
 - <a href="https://github.com/mjlbnu/expense-tracker/" target="_blank">Rastreador de despesas</a> - Node.js, React, MongoDB
 

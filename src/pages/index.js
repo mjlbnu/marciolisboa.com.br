@@ -29,8 +29,8 @@ export default class Index extends Component {
             <div className="elevator">
               <p>
                 Um Analista de Sistemas que trilhou um longo caminho entre
-                sistemas legados. Atualmente estudando{' '}
-                <strike>Node.js, React</strike> Java e o ecossistema Spring.
+                sistemas legados. Atualmente estudando Java e o ecossistema
+                Spring, React e React Native.
               </p>
               <div className="social-buttons">
                 <a

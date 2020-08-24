@@ -3,12 +3,12 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import { format } from 'date-fns';
+import pt from 'date-fns/locale/pt-BR';
 import Layout from '../layout';
 import UserInfo from '../components/UserInfo';
 import PostTags from '../components/PostTags';
 import SEO from '../components/SEO';
 import config from '../../data/SiteConfig';
-import pt from 'date-fns/locale/pt-BR';
 
 export default class PostTemplate extends Component {
   constructor(props) {
@@ -78,25 +78,6 @@ export default class PostTemplate extends Component {
             dangerouslySetInnerHTML={{ __html: postNode.html }}
           />
         </article>
-        <div className="container no-comments">
-          <h3>Gostou? Inscreva-se para receber novidades</h3>
-          <form
-            name="newsletter"
-            method="POST"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
-          >
-            <input type="hidden" name="form-name" value="newsletter" />
-            <p>
-              <label>
-                Seu Email: <input type="email" name="email" />
-              </label>
-            </p>
-            <p>
-              <button type="submit">Quero receber novidades</button>
-            </p>
-          </form>
-        </div>
         <UserInfo config={config} />
       </Layout>
     );
