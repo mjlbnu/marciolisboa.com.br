@@ -14,7 +14,7 @@ template: page
 
 Minha primeira experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções.
 
-Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Atualmente estudo Javascript moderno, suas bibliotecas e frameworks.
+Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Atualmente estudo metodologias ágeis e o Javascript moderno com suas bibliotecas e frameworks.
 
 ## Experiência Profissional
 
