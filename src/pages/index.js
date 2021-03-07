@@ -28,9 +28,7 @@ export default class Index extends Component {
             </div>
             <div className="elevator">
               <p>
-                Um Analista de Sistemas que trilhou um longo caminho entre
-                sistemas legados. Atualmente estudando Java e o ecossistema
-                Spring, React e React Native.
+                Bem-vindo ao meu jardim digital. Você encontrará por aqui artigos relacionados a desenvolvimento web, novas tecnologias, metodologias ágeis e carreira. 🤓
               </p>
               <div className="social-buttons">
                 <a
@@ -68,7 +66,7 @@ export default class Index extends Component {
           <section className="section">
             <h2>Projetos Open Source</h2>
             <p>
-              Os aplicativos abaixo listados estão hospedados gratuitamente no
+              Compartilho aqui algumas das minhas "experiências" desenvolvidas durante processos de aprendizagem. Os aplicativos abaixo listados estão hospedados gratuitamente no
               <a href="https://www.heroku.com/" target="_blank">
                 {' '}
                 heroku

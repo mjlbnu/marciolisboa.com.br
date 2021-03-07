@@ -6,15 +6,21 @@ template: page
 
 👋 Eu sou [Marcio José Lisboa](/sobre), apaixonado por tecnologia e sempre em busca de aperfeiçoamento e aprendizagem.
 
-🎓 Sou graduado em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e pós-graduado em Governança de TI pela Unisul (Universidade do Sul de Santa Catarina).
+🎓 Minha formação é em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e Governança de TI pela Unisul (Universidade do Sul de Santa Catarina).
 
-**💼 Meu objetivo profissional é trabalhar em uma empresa referência no mercado, que utiliza tecnologias atuais e emergentes ao lado de pessoas motivadas e cooperativas, desenvolvendo produtos e serviços que façam diferença no mercado e na vida das pessoas.**
+**💼 Meu objetivo profissional sempre foi trabalhar em uma empresa referência no mercado, que utilizasse tecnologias atuais e emergentes, ao lado de pessoas motivadas e cooperativas, desenvolvendo produtos e serviços que fizessem diferença no mercado e na vida das pessoas.**
 
-Minha principal experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções utilizando Delphi.
+💜 Atualmente trabalho como desenvolvedor na Philips Clinical Informatics.
 
-Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Com perfil hands-on atualmente estou estudando Java e o ecossistema Spring, React e React Native.
+Minha primeira experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções.
+
+Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Atualmente estudo Javascript moderno, suas bibliotecas e frameworks.
 
 ## Experiência Profissional
+
+### Desenvolvimento
+
+**Philips Clinical Informatics** - _2020 - Atual / Blumenau - SC_
 
 #### Análise de Sistemas / Desenvolvimento
 

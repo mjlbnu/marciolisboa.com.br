@@ -19,4 +19,8 @@ export default [
     quote: `A maioria dos softwares são como pirâmides do Egito, com milhões de blocos empilhados um em cima dos outros,
             nenhuma integridade estrutural, feita apenas pela força bruta e milhares de escravos.`,
   },
+  {
+    name: 'Joseph Joubert',
+    quote: `Ensinar é aprender duas vezes.`
+  },
 ];
