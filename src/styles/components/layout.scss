@@ -982,6 +982,8 @@ blockquote {
     display: flex;
     align-items: center;
     padding-bottom: 1.5rem;
+    width: 100vw;
+    justify-content: center;
   }
 
   strong {

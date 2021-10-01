@@ -78,7 +78,6 @@ export default class PostTemplate extends Component {
             dangerouslySetInnerHTML={{ __html: postNode.html }}
           />
         </article>
-        <UserInfo config={config} />
       </Layout>
     );
   }
