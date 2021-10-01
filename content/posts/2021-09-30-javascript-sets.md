@@ -78,7 +78,7 @@ let staffUnique = new Set(staff);
 console.log(staffUnique); // Set(3) {'Waiter', 'Chef', 'Manager'}
 ```
 
-### converting Set to an array using spread operator
+### Converting Set to an array using spread operator
 
 ```javascript
 staffUnique = [...new Set(staff)];
