@@ -6,7 +6,6 @@ export default class Footer extends Component {
   render() {
     return (
       <footer className="footer container">
-        <div />
         <div>
           <a
             href="https://www.netlify.com/"
