@@ -2,7 +2,7 @@
 date: 2021-09-30
 title: "Javascript - Sets"
 template: post
-thumbnail: "../thumbnails/nodejs1.png"
+thumbnail: "../thumbnails/javascript.png"
 slug: javascript-sets
 categories:
   - javascript

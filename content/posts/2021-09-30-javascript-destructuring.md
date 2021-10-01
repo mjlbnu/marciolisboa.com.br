@@ -2,7 +2,7 @@
 date: 2021-09-30
 title: "Javascript - Destructuring"
 template: post
-thumbnail: "../thumbnails/nodejs1.png"
+thumbnail: "../thumbnails/javascript.png"
 slug: javascript-destructuring
 categories:
   - javascript
