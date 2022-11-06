@@ -45,4 +45,4 @@ Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em
 
 ## Publicações
 
-- <a href="https://repositorio.animaeducacao.com.br/handle/ANIMA/12184)" target="_blank">A importância do gerenciamento de processos de negócios (BPM) na otimização e melhoria contínua de processos de TI</a> - 2018
+- <a href="https://repositorio.animaeducacao.com.br/handle/ANIMA/12184" target="_blank">A importância do gerenciamento de processos de negócios (BPM) na otimização e melhoria contínua de processos de TI</a> - 2018
