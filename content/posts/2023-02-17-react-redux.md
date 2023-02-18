@@ -11,8 +11,8 @@ tags:
   - react
   - redux
   - local storage
-	- state
-	- store
+  - state
+  - store
 ---
 
 <img src="https://i0.wp.com/regroove.ca/wp-content/uploads/2018/07/react-redux-2.png?fit=500%2C576&ssl=1" alt="React Redux"/>
