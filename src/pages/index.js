@@ -66,21 +66,7 @@ export default class Index extends Component {
           <section className="section">
             <h2>Projetos Open Source</h2>
             <p>
-              Compartilho aqui algumas das minhas "experiências" desenvolvidas durante processos de aprendizagem. Os aplicativos abaixo listados estão hospedados gratuitamente no
-              <a href="https://www.heroku.com/" target="_blank">
-                {' '}
-                heroku
-              </a>
-              , é{' '}
-              <a
-                href="https://devcenter.heroku.com/articles/dynos#dyno-sleeping"
-                target="_blank"
-              >
-                política da plataforma{' '}
-              </a>{' '}
-              mantê-los em estado de "dormência" após uma hora de inatividade.
-              Isso causa um pequeno atraso na primeira solicitação, mas as
-              solicitações subsequentes serão executadas normalmente.
+              Compartilho aqui algumas das minhas "experiências" desenvolvidas durante processos de aprendizagem.
             </p>
             <ProjectListing projects={projects} />
           </section>
