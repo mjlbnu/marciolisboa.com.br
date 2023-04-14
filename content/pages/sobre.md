@@ -1,36 +1,45 @@
 ---
-title: Sobre Mim
-slug: sobre
+title: About me
+slug: about
 template: page
 ---
 
-👋 Eu sou [Marcio José Lisboa](/sobre), apaixonado por tecnologia e sempre em busca de aperfeiçoamento e aprendizagem.
+Hi there 👋
 
-🎓 Minha formação é em Sistemas de Informação pela Furb (Fundação Universidade de Blumenau) e Governança de TI pela Unisul (Universidade do Sul de Santa Catarina).
+I'm Marcio, from Brazil 💚
 
-**💼 Meu objetivo profissional sempre foi trabalhar em uma empresa referência no mercado, que utilizasse tecnologias atuais e emergentes, ao lado de pessoas motivadas e cooperativas, desenvolvendo produtos e serviços que fizessem diferença no mercado e na vida das pessoas.**
+- 🔭 I’m currently working at Philips Clinical Informatics
+- 🌱 I’m currently learning Full Stack Web Development
 
-💜 Atualmente trabalho como desenvolvedor na Philips Clinical Informatics.
+📫 Where to find me
 
-Minha primeira experiência em TI foi durante o período de junho de 2010 a abril de 2020 em uma empresa de varejo e e-commerce. Tratava-se de um ERP on-premise onde minha responsabilidade como Analista de Sistemas era a de manter os sistemas financeiros (contas a pagar e contas a receber) da organização, realizando análises, levantamento de requisitos e desenvolvimento de soluções.
+- https://github.com/mjlbnu/ 👨🏽‍💻
+- https://www.programadorbr.com.br/ 😏🔗
+- https://www.linkedin.com/in/mjlbnu/ 💼
 
-Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em constante evolução e sair da zona de conforto. Atualmente estudo metodologias ágeis e o Javascript moderno com suas bibliotecas e frameworks.
+I am graduated in information systems and post graduated in IT governance.
 
-## Experiência Profissional
+My main IT experience was during the period from June 2010 to April 2020 at a logistics and e-commerce company. It was an on-premise ERP where my responsibility as a Systems Analyst was to maintain the organization's financial systems (accounts payable and accounts receivable), performing analysis, requirements gathering and developing solutions using Delphi and Oracle.
 
-### Desenvolvimento
+In my opinion, a good IT professional needs to: adapt, always be in constant evolution and leave the comfort zone. I am always looking for improvement and learning new technologies and programming languages.
 
-**Philips Clinical Informatics** - _2020 - Atual / Blumenau - SC_
+My professional goal is to work in a reference company in the market, which uses current and emerging technologies. With motivated and collaborative people, developing products and services that make a difference in the market and in people's lives.
 
-#### Análise de Sistemas / Desenvolvimento
+## Professional Experience
+
+#### Systems Analysis / Software Development
+
+**Philips Clinical Informatics** - _2020 - Present / Blumenau - SC_
+
+#### Systems Analysis / Software Development
 
 **Loghaus Ltda** - _2013 - 2020 | Blumenau - SC_
 
-#### Desenvolvimento
+#### Software Development
 
 **Marketing Actual S.A** - _2010 - 2013 | Blumenau - SC_
 
-## Contato
+## Contact
 
 - **Email**: [mjlbnu@gmail.com](mailto:mjlbnu[AT]gmail[DOT]com)
 - **GitHub**: <a href="https://github.com/mjlbnu/" target="_blank">mjlbnu</a>
@@ -43,6 +52,6 @@ Na minha opinião um bom profissional de TI precisa: se adaptar, estar sempre em
 - <a href="https://github.com/mjlbnu/spots/" target="_blank">Spots para programadores</a> - Node.js, React, MongoDB
 - <a href="https://github.com/mjlbnu/expense-tracker/" target="_blank">Rastreador de despesas</a> - Node.js, React, MongoDB
 
-## Publicações
+## Publications
 
 - <a href="https://repositorio.animaeducacao.com.br/handle/ANIMA/12184" target="_blank">A importância do gerenciamento de processos de negócios (BPM) na otimização e melhoria contínua de processos de TI</a> - 2018
