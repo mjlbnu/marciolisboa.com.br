@@ -56,7 +56,7 @@ const store = createStore(
   composeEnhancers(applyMiddleware(thunk))
 );
 
-store.subscribe(() =&gt; saveToLocalStorage(store.getState()));
+store.subscribe(() => saveToLocalStorage(store.getState()));
 
 export default store;
 ```
