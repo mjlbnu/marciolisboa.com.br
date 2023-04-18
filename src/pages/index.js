@@ -30,6 +30,7 @@ export default class Index extends Component {
               <p>
                 Bem-vindo ao meu jardim digital. Você encontrará por aqui artigos relacionados a desenvolvimento web, novas tecnologias, metodologias ágeis e carreira. 🤓
               </p>
+              /*
               <div className="social-buttons">
                 <a
                   className="linkedin-button"
@@ -48,6 +49,7 @@ export default class Index extends Component {
                   <img src={github} height="50" width="50" alt="GitHub" />
                 </a>
               </div>
+              */
             </div>
           </div>
         </div>
