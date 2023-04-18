@@ -118,7 +118,7 @@ a.twitter-button {
 // Secondary button color
 .linkedin-button,
 a.linkedin-button {
-  background: #7159c1;
+  background: darken($yellow, 25%);
   border: 0;
   padding: 0 5px;
   margin-left: 5px;
@@ -135,7 +135,7 @@ a.linkedin-button {
   &:hover,
   &:focus,
   &:active {
-    background: #7a66bb !important;
+    background: darken($yellow, 10%) !important;
   }
 }
 
