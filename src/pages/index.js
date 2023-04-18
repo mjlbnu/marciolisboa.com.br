@@ -30,26 +30,6 @@ export default class Index extends Component {
               <p>
                 Bem-vindo ao meu jardim digital. Você encontrará por aqui artigos relacionados a desenvolvimento web, novas tecnologias, metodologias ágeis e carreira. 🤓
               </p>
-              /*
-              <div className="social-buttons">
-                <a
-                  className="linkedin-button"
-                  href="https://www.linkedin.com/in/mjlbnu"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img src={linkedin} height="50" width="50" alt="Linkedin" />
-                </a>
-                <a
-                  className="github-button"
-                  href="https://github.com/mjlbnu"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img src={github} height="50" width="50" alt="GitHub" />
-                </a>
-              </div>
-              */
             </div>
           </div>
         </div>
