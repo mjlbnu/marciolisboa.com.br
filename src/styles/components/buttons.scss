@@ -140,7 +140,7 @@ a.linkedin-button {
 }
 
 a.github-button {
-  background: darken($yellow, 5%);
+  background: darken($yellow, 25%);
   border: 0;
   padding: 0 5px;
   margin-left: 5px;
@@ -157,7 +157,7 @@ a.github-button {
   &:hover,
   &:focus,
   &:active {
-    background: #7a66bb !important;
+    background: darken($yellow, 10%) !important;
   }
 }
 
