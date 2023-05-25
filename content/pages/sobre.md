@@ -16,6 +16,7 @@ I'm Marcio, from Brazil 💚
 - https://github.com/mjlbnu/ 👨🏽‍💻
 - https://www.programadorbr.com.br/ 😏🔗
 - https://www.linkedin.com/in/mjlbnu/ 💼
+- https://open.spotify.com/user/12160552334 🎶
 
 I am graduated in information systems and post graduated in IT governance.
 
