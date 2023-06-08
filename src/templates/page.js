@@ -26,16 +26,21 @@ export default class PageTemplate extends Component {
             <header className="page-header">
               <h1>{page.title}</h1>
             </header>
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-G03CFN68HG"></script>
-            <script>
-            {
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-
-              gtag('config', 'G-G03CFN68HG');
-              }
-            </script>
+            
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G03CFN68HG"></script>
+                  <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'G-G03CFN68HG');
+                  </script>
+                `,
+              }}
+            />
+            
             <div className="page" dangerouslySetInnerHTML={{ __html: postNode.html }} />
           </article>
         </div>
