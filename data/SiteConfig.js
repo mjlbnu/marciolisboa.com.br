@@ -9,10 +9,10 @@ const config = {
   dateFromFormat: "YYYY-MM-DD",
   dateFormat: "LL",
   siteDescription:
-    "Jardim  de Marcio José Lisboa. Artigos relacionados a desenvolvimento web, novas tecnologias, metodologias ágeis e carreira.",
+    "Marcio José Lisboa's Digital Garden. Articles related to web development, new technologies, agile methodologies, and career.",
   siteRss: "/rss.xml",
   googleAnalyticsID: "G-G03CFN68HG",
-  postDefaultCategoryID: "Tecnologia",
+  postDefaultCategoryID: "Tecnology",
   newsletter: "",
   newsletterEmbed: "",
   userName: "Marcio",
