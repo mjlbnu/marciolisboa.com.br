@@ -11,7 +11,7 @@ tags:
   - unity
 ---
 
-<img src="../images/sy.png" alt="Love Symbol"/>
+<img src="../images/harm.png" alt="Love Symbol"/>
 
 ## Embracing Unity: Building a Harmonious Society
 
